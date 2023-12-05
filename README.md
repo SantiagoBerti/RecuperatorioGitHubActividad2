@@ -1,1 +1,0 @@
-# RecuperatorioGitHubActividad2-JavaScript2
